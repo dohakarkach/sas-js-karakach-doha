@@ -1,19 +1,19 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 01 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
- * SOUSTRACTION PURE
+ * JOUR 03 · EXERCICE 03 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
+ * CONVERTISSEUR DE DEVISE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction soustraire(a, b) qui retourne le résultat de a - b.
+ * Écrivez une fonction madToEur(mad) qui prend un montant en dirhams et le convertit en euros (considérez 1 EUR = 10.8 MAD).
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-01
- * ▶️ Commande : node day03/exercices/exercice-01.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-03
+ * ▶️ Commande : node day03/exercices/exercice-03.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function soustraire(a, b)
-{return(a-b);}
-console.log(soustraire(5, 2));
+function madToEur(mad)
+{return(mad / 10.8);}
+console.log ( madToEur (20));

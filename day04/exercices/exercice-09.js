@@ -1,19 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 01 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
- * SOUSTRACTION PURE
+ * JOUR 03 · EXERCICE 09 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * MAXIMUM DE TROIS NOMBRES
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction soustraire(a, b) qui retourne le résultat de a - b.
+ * Sans utiliser Math.max(), écrivez une fonction trouverMax(a, b, c) qui retourne le plus grand des trois nombres en utilisant des conditions if/else.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-01
- * ▶️ Commande : node day03/exercices/exercice-01.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-09
+ * ▶️ Commande : node day03/exercices/exercice-09.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function soustraire(a, b)
-{return(a-b);}
-console.log(soustraire(5, 2));
+// TODO: écris ta solution ici.

@@ -1,19 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 01 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
- * SOUSTRACTION PURE
+ * JOUR 03 · EXERCICE 08 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * RÉFRACTURATION (REFACTORING)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction soustraire(a, b) qui retourne le résultat de a - b.
+ * Reprenez l'exercice du FizzBuzz du *Day 02* et encapsulez-le dans une fonction jouerFizzBuzz(max). En appelant jouerFizzBuzz(15), ça devrait jouer jusqu'à 15.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-01
- * ▶️ Commande : node day03/exercices/exercice-01.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-08
+ * ▶️ Commande : node day03/exercices/exercice-08.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function soustraire(a, b)
-{return(a-b);}
-console.log(soustraire(5, 2));
+// TODO: écris ta solution ici.

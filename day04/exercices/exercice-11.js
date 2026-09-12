@@ -1,19 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 01 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
- * SOUSTRACTION PURE
+ * JOUR 03 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * FACTORIELLE ENCAPSULÉE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction soustraire(a, b) qui retourne le résultat de a - b.
+ * Convertissez votre logique de factorielle (Day 02) en une fonction calculerFactorielle(n). Si n = 0, la fonction doit retourner 1.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-01
- * ▶️ Commande : node day03/exercices/exercice-01.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
+ * ▶️ Commande : node day03/exercices/exercice-11.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function soustraire(a, b)
-{return(a-b);}
-console.log(soustraire(5, 2));
+// TODO: écris ta solution ici.

@@ -1,19 +1,18 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 01 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
- * SOUSTRACTION PURE
+ * JOUR 03 · EXERCICE 15 · NIVEAU 3 : DÉFI (AVANCÉS)
+ * RÉCURSIVITÉ (LE CONCEPT QUI RETOURNE LE CERVEAU)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction soustraire(a, b) qui retourne le résultat de a - b.
+ * Recréez la fonction fibonacci(n) (qui retourne le Nième terme de la suite) en utilisant la *récursivité* (la fonction s'appelle elle-même).
+ * Condition d'arrêt : Si n <= 1, return n.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-01
- * ▶️ Commande : node day03/exercices/exercice-01.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-15
+ * ▶️ Commande : node day03/exercices/exercice-15.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-function soustraire(a, b)
-{return(a-b);}
-console.log(soustraire(5, 2));
+// TODO: écris ta solution ici.
