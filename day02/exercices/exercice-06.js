@@ -14,4 +14,9 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let i=1 ;
+do {console.log(i);if(i===7){braek;}i++}
+while(i<=100);
+
+
+

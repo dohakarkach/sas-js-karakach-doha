@@ -7,9 +7,9 @@
 
 | Information | À compléter |
 |---|---|
-| Nom et prénom | ... |
-| Classe | ... |
-| Nom d'utilisateur GitHub | ... |
+| Nom et prénom | karkach doha |
+| Classe | SAS group 1 |
+| Nom d'utilisateur GitHub | karkach doha |
 
 ## 🧭 Comment travailler
 

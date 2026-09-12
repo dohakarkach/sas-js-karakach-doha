@@ -20,6 +20,5 @@
 const PI = 3.14;
 let rayon = 5;
 let perimetre = (2 * PI * rayon);
-console.log (perimetre.toFixed(1));
-
+console.log (perimetre);
 

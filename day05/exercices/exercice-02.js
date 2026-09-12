@@ -1,23 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 02 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * PUISSANCE MANUELLE
+ * JOUR 05 · EXERCICE 02 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
+ * ACCÈS PAR INDEX
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Calculez 2 à la puissance 10 en utilisant une boucle for (sans utiliser Math.pow ni ).
+ * Déclarez mot = "Programmation". Affichez la première lettre (index 0) et la toute dernière lettre en utilisant mot.length - 1.
  *
- * RÉSULTAT ATTENDU
- * 1024
- *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
- * ▶️ Commande : node day02/exercices/exercice-11.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-02
+ * ▶️ Commande : node day05/exercices/exercice-02.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-let resultat = 1;
-for(let i =1 ; i<=10 ; i++)
-{resultat = resultat * 2} ;
-console.log (resultat);
+// TODO: écris ta solution ici.

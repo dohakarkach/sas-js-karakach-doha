@@ -1,23 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 02 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * PUISSANCE MANUELLE
+ * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * FORMATAGE MONÉTAIRE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Calculez 2 à la puissance 10 en utilisant une boucle for (sans utiliser Math.pow ni ).
+ * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
  *
- * RÉSULTAT ATTENDU
- * 1024
- *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
- * ▶️ Commande : node day02/exercices/exercice-11.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
+ * ▶️ Commande : node day05/exercices/exercice-13.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-let resultat = 1;
-for(let i =1 ; i<=10 ; i++)
-{resultat = resultat * 2} ;
-console.log (resultat);
+// TODO: écris ta solution ici.
