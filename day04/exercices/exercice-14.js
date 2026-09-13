@@ -14,4 +14,14 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+function calculatrice (a, b, signe) 
+{switch (signe ){case "-": return a-b;
+    case"+":return a+b;
+    case "*":return  a*b;
+    case "/":return  a/b;
+    default : return "singne invalide";}
+    }
+ console . log (calculatrice (2,1, "-"));
+console.log (calculatrice  (5,2,"+"));
+console.log (calculatrice (2,2,"*"));
+ console.log (calculatrice  (6,3,"/"));
